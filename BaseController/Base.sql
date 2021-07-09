@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS `basecontroller`; CREATE TABLE `basecontroller` ( `id` int(11) NOT NULL, `L` varchar(10) NOT NULL, `R` varchar(10) NOT NULL, `F` varchar(10) NOT NULL, `B` varchar(10) NOT NULL, `S` varchar(10) NOT NULL ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
